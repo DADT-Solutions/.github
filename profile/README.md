@@ -5,7 +5,7 @@
 ### Building innovative software that empowers businesses.
 
 <p>
-  <img src="/profile/dadt-solutions-logo.png" alt="Typing SVG"/>
+  <img src="/profile/dadt-solutions-logo.png" alt="Typing SVG" width="150px"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DADT-SOLUTIONS&style=for-the-badge&color=0e75b6)
