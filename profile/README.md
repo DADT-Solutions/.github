@@ -5,7 +5,7 @@
 ### Building innovative software that empowers businesses.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Enterprise+Software+Solutions;Modern+Web+%26+Mobile+Applications;ERP+%7C+POS+%7C+Cloud+Platforms;Java+%7C+Spring+Boot+%7C+React+%7C+Flutter;Building+the+future+with+technology+🚀" alt="Typing SVG"/>
+  <img src="profile/dadt-solutions-logo.png" alt="Typing SVG"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DADT-SOLUTIONS&style=for-the-badge&color=0e75b6)
