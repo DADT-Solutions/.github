@@ -4,7 +4,7 @@
 
 <br />
 
-<h1>⚡ YOUR ORG NAME</h1>
+<h1>⚡ DADT SOLUTIONS</h1>
 
 <h3>Building software that ships fast, scales further, and never breaks trust.</h3>
 
@@ -26,7 +26,7 @@
 
 ## 🧭 About Us
 
-**YourOrgName** is a software company building [what you build — e.g. *developer infrastructure, fintech tooling, AI-powered analytics*] for teams who need speed without sacrificing reliability. We're a team of engineers, designers, and builders shipping production-grade software used by [X companies / X users / etc.].
+**DADT SOLUTIONS** is a software company building [what you build — e.g. *developer infrastructure, fintech tooling, AI-powered analytics*] for teams who need speed without sacrificing reliability. We're a team of engineers, designers, and builders shipping production-grade software used by [X companies / X users / etc.].
 
 - 🔭 Currently building: **[Flagship Product Name]**
 - 🌱 Actively exploring: **[emerging tech / R&D area]**
